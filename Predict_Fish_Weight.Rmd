@@ -120,7 +120,9 @@ The adjusted R-squared is about 0.97 for this regressor of L2-Width.
   
 
 
-
+  
 # Discussion and Final Conclusion
+So for the Perch model the R-square is 0.94 the Bream model the R-square is 0.9356 and the Smelt Model the R- square is 0.97 therefore there is no significant relationship between the Smelt Model that one is significantly different. Now the Perch and Bream model are somewhat similar since the numbers are off by a few numbers so I would say those two are similar. The variables are all different from each other but when put in the linear models they come to be the same in the positions that they are in. 
+  
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
